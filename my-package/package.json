@@ -1,7 +1,7 @@
 {
     "name": "@black1512/npm_github_package",
     "version": "0.0.4",
-    "description": "📦 npm package learning",
+    "description": "📦 npm package learning for registery",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
