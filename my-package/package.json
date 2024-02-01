@@ -1,7 +1,7 @@
 {
     "name": "@black1512/npm_github_package",
-    "version": "0.0.3",
-    "description": "📦 npm package tutorial",
+    "version": "0.0.4",
+    "description": "📦 npm package learning",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
@@ -23,6 +23,9 @@
         "name": "Utsav Patel",
         "email": "up1512001@gmail.com",
         "url": "https://github.com/up1512001"
+    },
+    "publishConfig": {
+        "access": "public"
     },
     "license": "MIT",
     "bugs": {
