@@ -1,6 +1,6 @@
 {
     "name": "@black1512/npm_github_package",
-    "version": "5.0.1",
+    "version": "5.0.2",
     "description": "📦 npm package learning for registery",
     "main": "index.js",
     "scripts": {
